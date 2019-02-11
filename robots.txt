@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eethiawo.joezhang.info/sitemap.xml
